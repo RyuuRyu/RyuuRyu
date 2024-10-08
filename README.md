@@ -33,6 +33,7 @@ export default GetBio
 ### Hello, thanks for visiting my Github account~
 
 Ryu Kevin
+
 Front Developer
 
 ---
