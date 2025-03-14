@@ -18,12 +18,9 @@ def get_bio():
 get_bio()
 ```
 
-<details align="center">
-
 ### Hello, thanks for visiting my Github account~
 Ryu Kevin | Newbie Developer
 
 - 🔵 Discord: jonaryuu
 - 📸 Instagram: jonaryuu
 - 🈂️ Facebook: Ryuu
-</details>
