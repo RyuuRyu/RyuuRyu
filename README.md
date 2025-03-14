@@ -1,4 +1,5 @@
 <h1 align="center"> RyuuRyu </h1>
+<h2 align="center"> Hello, thanks for visiting my Github account </h2>
 
 ```python
 def get_bio():
@@ -18,8 +19,9 @@ def get_bio():
 get_bio()
 ```
 
-### Hello, thanks for visiting my Github account~
 Ryu Kevin | Newbie Developer
+
+I'm new here, wish me luck!
 
 - 🔵 Discord: jonaryuu
 - 📸 Instagram: jonaryuu
