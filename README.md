@@ -1,5 +1,4 @@
 <h1 align="center"> RyuuRyu </h1>
-<h2 align="center"> Hello, thanks for visiting my Github account </h2>
 
 ```python
 def get_bio():
