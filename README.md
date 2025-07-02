@@ -23,5 +23,5 @@ Ryu Kevin | Newbie Developer
 I'm new here, wish me luck!
 
 - 🔵 Discord: jonaryuu
-- 📸 Instagram: jonaryuu
-- 🈂️ Facebook: Ryuu
+- 📸 Instagram: [Jonaryuu](https://www.instagram.com/jonaryuu/)
+- 🈂️ Facebook: [Ryuu](https://www.facebook.com/ryuu2000/)
